@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jitinmakker, a pathologist and clinical informaticist by training.
+- 👀 I’m interested in clinical informatics, EHR and emerging technologies in healthcare.
+- 🌱 I’m currently learning python, natural language processing
+- 💞️ I’m looking to collaborate on natural language processing and using machine learning technology in healthcare.
+- 📫 How to reach me twitter @jitinmakker 
